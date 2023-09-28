@@ -1,7 +1,7 @@
 # FZU_Calculator
 ### 0.页面及功能展示
 
-[源代码地址](https://github.com/Gorsonpy/FZU_Calculator)
+[源代码地址](https://github.com/Gorsonpy/Soft_Calculator)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/da08bfbcebe149aaac1f369e738f10d6.gif#pic_center)
 
 ### 1. PSP表格
